@@ -1,0 +1,10 @@
+{
+  "name": "tizen-pc-mirror",
+  "version": "0.1.0",
+  "description": "Shows a PC screen stream (MJPEG) on a Samsung Tizen TV via TizenBrew",
+  "packageType": "app",
+  "appName": "PC Mirror",
+  "appPath": "app/index.html",
+  "keys": ["ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue"],
+  "license": "MIT"
+}
